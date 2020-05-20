@@ -6,6 +6,6 @@
     "forwardPorts": [4000],
     "extensions": ["ms-python.python",
                    "ms-azuretools.vscode-docker"],
-    "runServices": ["converter", "jekyll", "fastpages"]
+    "runServices": ["converter", "jekyll", "watcher"]
 }
 
